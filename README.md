@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://www.fotosdeperfil.org/" alt="[Tu Nombre] Avatar" width="150" height="150"/>
-  <h1>👋 ¡Hola! Soy [Tu Nombre]</h1>
+  <img src="https://www.fotosdeperfil.org/" alt="Rodrcam Avatar" width="150" height="150"/>
+  <h1>👋 ¡Hola! Soy Rodrcam</h1>
 </div>
 
 ---
