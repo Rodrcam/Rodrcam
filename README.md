@@ -5,7 +5,7 @@
 
 ---
 
-### 🎓 Ingeniero Informático | 🧠 IA & Ciberseguridad Enthusiast
+### 🎓 Ingeniero Informático | 🧠 IA & Ciberseguridad 
 
 Soy un **Ingeniero Informático** especializado en la intersección de sistemas robustos y soluciones tecnológicas avanzadas. Me apasiona construir el futuro digital con un enfoque en la **seguridad** y la **inteligencia artificial**.
 
