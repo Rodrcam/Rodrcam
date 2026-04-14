@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://www.fotosdeperfil.org/" alt="Rodrcam Avatar" width="150" height="150"/>
+  <img src="https://avatars.githubusercontent.com/u/160480263?v=4&size=64" alt="Rodrcam Avatar" width="150" height="150"/>
   <h1>👋 ¡Hola! Soy Rodrcam</h1>
 </div>
 
@@ -9,11 +9,11 @@
 
 Soy un **Ingeniero Informático** especializado en la intersección de sistemas robustos y soluciones tecnológicas avanzadas. Me apasiona construir el futuro digital con un enfoque en la **seguridad** y la **inteligencia artificial**.
 
-- 🔭 Actualmente estoy trabajando en: [Un proyecto relevante de IA o Ciberseguridad].
-- 🌱 Siempre estoy aprendiendo: Las últimas tendencias en **Redes Neuronales** y **Análisis Forense Digital**.
-- 💼 Buscando colaborar en: Proyectos Open Source relacionados con la protección de datos o la automatización inteligente.
-- 💬 Pregúntame sobre: [Tu lenguaje de programación favorito] o [Una herramienta de Ciberseguridad/IA que domines].
-- 📧 Contáctame: [Tu email de contacto].
+- 🔭 Actualmente estoy trabajando en: [DNFC-Redux-Project].
+- 🌱 Siempre estoy aprendiendo: Las últimas tendencias en **Seguridad** y **Modelos de IA**.
+- 💼 Buscando colaborar en: Proyectos Open Source relacionados con la protección de datos, creación de videojuegos o la automatización inteligente.
+- 💬 Pregúntame sobre: [Python] o [GeminiAI].
+- 📧 Contáctame: Discord: [rodcam04].
 
 ---
 
@@ -21,16 +21,14 @@ Soy un **Ingeniero Informático** especializado en la intersección de sistemas 
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes Clave (IA & CS)** | `Python` (Pytorch/TensorFlow), `C/C++`, `Go` |
-| **Ciberseguridad** | `Kali Linux`, `Wireshark`, `Metasploit`, `Docker` |
-| **Desarrollo Web (Full Stack)** | `React` / `Next.js`, `Node.js`, `SQL/NoSQL` |
+| **Lenguajes Clave (IA & CS)** | `Python`, `C/C++`, `Go`, `JS`|
+| **Ciberseguridad** | `Kali Linux`, `Wireshark`, `Metasploit`, `Docker`, `Zap`, `Burp`|
+| **Desarrollo Web (Full Stack)** | `React` / `Next.js`, `Node.js`, `SQL/NoSQL`, `Flask`|
 | **Cloud/DevOps** | `AWS/Azure/GCP`, `Git`, `CI/CD` |
 
 ---
 
-### 📊 Mis Estadísticas de GitHub (Opcional, pero muy visual)
-
-**Puedes añadir estas 'tarjetas' para un efecto visual impactante.** *Necesitarás enlazar a servicios externos, mira el Paso 3.*
+### 📊 Mis Estadísticas de GitHub 
 
 ```markdown
 <div align="center">
