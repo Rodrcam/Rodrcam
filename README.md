@@ -28,16 +28,6 @@ Soy un **Ingeniero Informático** especializado en la intersección de sistemas 
 
 ---
 
-### 📊 Mis Estadísticas de GitHub 
-
-```markdown
-<div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=](https://github-readme-stats.vercel.app/api?username=)[Tu_Usuario]&show_icons=true&theme=onedark&include_all_commits=true&count_private=true" alt="Tu Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Tu_Usuario]&layout=compact&theme=onedark" alt="Tus Lenguajes Principales" />
-</div>
-
----
-
 ### 🔗 Encuéntrame en la web:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Tu_URL_de_LinkedIn]) 
