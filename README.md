@@ -9,11 +9,11 @@
 
 Soy un **Ingeniero Informático** especializado en la intersección de sistemas robustos y soluciones tecnológicas avanzadas. Me apasiona construir el futuro digital con un enfoque en la **seguridad** y la **inteligencia artificial**.
 
-- 🔭 Actualmente estoy trabajando en: [DNFC-Redux-Project].
+- 🔭 Actualmente estoy trabajando como hobbie en: DNFC-Redux-Project.
 - 🌱 Siempre estoy aprendiendo: Las últimas tendencias en **Seguridad** y **Modelos de IA**.
 - 💼 Buscando colaborar en: Proyectos Open Source relacionados con la protección de datos, creación de videojuegos o la automatización inteligente.
-- 💬 Pregúntame sobre: [Python] o [GeminiAI].
-- 📧 Contáctame: Discord: [rodcam04].
+- 💬 Pregúntame sobre: Python o GeminiAI.
+- 📧 Contáctame: Discord: rodcam04.
 
 ---
 
@@ -21,14 +21,13 @@ Soy un **Ingeniero Informático** especializado en la intersección de sistemas 
 
 | Categoría | Tecnologías y Herramientas |
 | :--- | :--- |
-| **Lenguajes Clave (IA & CS)** | `Python`, `C/C++`, `Go`, `JS`|
+| **Lenguajes Clave (IA & CS)** | `Python`, `C/C++`, `JS`|
 | **Ciberseguridad** | `Kali Linux`, `Wireshark`, `Metasploit`, `Docker`, `Zap`, `Burp`|
-| **Desarrollo Web (Full Stack)** | `React` / `Next.js`, `Node.js`, `SQL/NoSQL`, `Flask`|
+| **Desarrollo Web (Full Stack)** | `React` / `Node.js`, `SQL/NoSQL`, `Flask`|
 | **Cloud/DevOps** | `AWS/Azure/GCP`, `Git`, `CI/CD` |
 
 ---
 
 ### 🔗 Encuéntrame en la web:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([Tu_URL_de_LinkedIn]) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([Tu_URL_de_Twitter])
+(https://www.linkedin.com/in/rodrigo-caminero-gonz%C3%A1lez-0108b9306/)
