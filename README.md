@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/Rodrcam">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingeniería+Informática+(UCJC);Presidente+y+cofundador+del+club+tecnológico+ARISE;IA+aplicada+·+Ciberseguridad+·+Automatización;Y+sí%2C+también+hago+videojuegos+🎮" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=620&lines=Estudiante+de+Ingenier%C3%ADa+Inform%C3%A1tica+en+la+UCJC;Presidente+y+cofundador+del+club+ARISE;IA+aplicada+%C2%B7+Ciberseguridad+%C2%B7+Automatizaci%C3%B3n;Y+tambi%C3%A9n+hago+videojuegos" alt="Estudiante de Ingeniería Informática · IA · Ciberseguridad · Videojuegos"/>
   </a>
 </p>
 
@@ -32,13 +32,14 @@ Fuera de clase **cofundé y presido [ARISE](https://ariseclub.github.io)** (*Adv
 
 Y como no todo es trabajo: este perfil también es mi taller. Aquí subo **videojuegos, mods y experimentos personales**, porque es donde más aprendo.
 
-```yaml
-ahora_mismo:
-  tfg:        "Investigación en IA aplicada a ciberseguridad (simulación de entornos urbanos)"
-  arise:      "Primera colaboración con empresa: ARISE × GGTech en Gamergy"
-  busco:      "Prácticas o primer empleo en TI, ciberseguridad o IA"
-  idiomas:    ["Español (nativo)", "Inglés (B1)"]
-```
+### 📌 Ahora mismo
+
+| | |
+| :--- | :--- |
+| 🎓 **TFG** | Investigación en IA aplicada a ciberseguridad, con simulación de entornos urbanos |
+| 🤝 **ARISE** | Primera colaboración con empresa: ARISE × GGTech en Gamergy |
+| 💼 **Busco** | Prácticas o primer empleo en TI, ciberseguridad o IA |
+| 🌍 **Idiomas** | Español (nativo) · Inglés (B1) |
 
 ---
 
